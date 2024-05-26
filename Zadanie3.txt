@@ -6,6 +6,8 @@ W tym zadaniu wykorzystałbym częstotliwość wizyt klienta w sklepie, którą 
 
 Mając częstotliwość wizyt klienta w sklepie można stworzyć model predykcyjny, który będzie porównywał każdy miesiąc dla danego klienta.
 
-Jeżeli trend będzie spadkowy to należy rozważyć, że klient może w najbliższym czasie stać się LOST’em. Czyli dowiemy się o tym przed przekroczeniem granicy 90 dni.
+Jeżeli trend będzie spadkowy to należy rozważyć, że klient może w najbliższym czasie stać się LOST’em.
+Czyli dowiemy się o tym przed przekroczeniem granicy 90 dni.
 
-Dla nowych klientów można zastosować ten sam model, ale zmniejszając okres z 30 dni na np. 7. Model nie będzie niestety tak dokładny jak przy starszych klientach, ale da nam jakieś spojrzenie na ich zachowanie.
+Dla nowych klientów można zastosować ten sam model, ale zmniejszając okres z 30 dni na np. 7.
+Model nie będzie niestety tak dokładny jak przy starszych klientach, ale da nam jakieś spojrzenie na ich zachowanie.
