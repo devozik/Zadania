@@ -1,0 +1,18 @@
+Zadanie 1
+
+Aby wyznaczyć częstotliwość wizyt klienta w sklepie najpierw należałoby zdecydować na jakim okresie opierać się będzie nasza miara. Dla celów tego zadania proponuję jeden miesiąc czyli 30 dni. 
+
+Niezbędna będzie nam lista wizyt klientów w sklepie wraz z datami. Przyjmijmy, że dwukrotna wizyta w ciągu jednego dnia liczona jest jako 1.
+Na tej podstawie wyliczymy częstotliwość ze wzoru:
+
+30 (liczba dni w miesiącu, przyjęta na początku) / X (liczba wizyt klienta w ciągu tych 30 dni) 
+
+Przykład:
+Jan Kowalski odwiedził nasz sklep w styczniu 10 razy. Wykorzystując nasz wzór liczymy częstotliwość:
+
+30 / 10 = 3
+Co oznacza, że Jan Kowalski odwiedza nasz sklep średnio co 3 dni.
+
+Podsumowując:
+Zaproponowana miara jest bardzo prosta do policzenia oraz elastyczna. Można ją łatwo zmodyfikować zmieniając okres z 30 dni na np. 7.
+Uważam jednak, że 30 dni jest uniwersalnym wyborem, ponieważ większość ludzi dostaje wypłaty raz w miesiącu i od tego może zależeć jak często się u nas pojawią. 
