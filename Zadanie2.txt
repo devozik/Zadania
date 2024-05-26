@@ -9,4 +9,5 @@ W lutym ilość paragonów z kartą wynosiła 400, bez karty również 400.
 Jako potwierdzenie tego założenia napisałem krótki program w Pythonie.
 Program przyjmuje wartości, które wymuszają średnie w osobnych grupach tak aby były identyczne jak w zadaniu, a następnie wylicza średnią w totalu.
 
+Wyliczenia w Pythonie:
 https://gist.github.com/devozik/7392f3c0faa87ddd0633b8ceb3275a31
