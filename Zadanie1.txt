@@ -1,6 +1,7 @@
 Zadanie 1
 
-Aby wyznaczyć częstotliwość wizyt klienta w sklepie najpierw należałoby zdecydować na jakim okresie opierać się będzie nasza miara. Dla celów tego zadania proponuję jeden miesiąc czyli 30 dni. 
+Aby wyznaczyć częstotliwość wizyt klienta w sklepie najpierw należałoby zdecydować na jakim okresie opierać się będzie nasza miara.
+Dla celów tego zadania proponuję jeden miesiąc czyli 30 dni. 
 
 Niezbędna będzie nam lista wizyt klientów w sklepie wraz z datami. Przyjmijmy, że dwukrotna wizyta w ciągu jednego dnia liczona jest jako 1.
 Na tej podstawie wyliczymy częstotliwość ze wzoru:
